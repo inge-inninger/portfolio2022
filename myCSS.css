@@ -18,14 +18,14 @@ a:hover, a:active, a:focus {
      text-decoration: underline;
 }
 .homePage {
-	background: #003D2E;
+	background: #7E79B3;
 }
 .container {
 	width: 960px;
 	margin: 0 auto;
 }
 .header {
-	background: #A0B585;
+	background: #D9D6FD;
 	text-align: center;
 	margin: 0px;
 	padding: 5;
@@ -51,7 +51,7 @@ a:hover, a:active, a:focus {
 	text-align: center;
 }
 .footer {
-	background: #443836;
+	background: #56B370;
 	margin: 0px;
 	float: left;
 	width: 100%;
